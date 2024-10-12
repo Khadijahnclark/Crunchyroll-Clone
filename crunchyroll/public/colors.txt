@@ -1,0 +1,5 @@
+Orange: F47521 
+White: FFFFFF
+Grey: 23252B
+Dark Grey: 141519
+Light Grey: A0A0A0
